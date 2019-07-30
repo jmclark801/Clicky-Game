@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "name": "Freeze, Baddies!",
+    "image": "./images/banditgirl.jpg"
+  },
+  {
+    "id": 2,
+    "name": "One day I want to be Batman!",
+    "image": "./images/batboy.jpg"  
+  },
+  {
+    "id": 3,
+    "name": "I LOVE bats!",
+    "image": "./images/batgirl.png"
+  },
+  {
+    "id": 4,
+    "name": "Who's the flyest girl?",
+    "image": "./images/flygirl.png"
+  },
+  {
+    "id": 5,
+    "name": "Hulkyboy SMASHY!",
+    "image": "./images/hulkyboy.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "Pink Girl Saves the Day!",
+    "image": "./images/pinkgirl.png"
+  },
+  {
+    "id": 7,
+    "name": "Wham BAM!",
+    "image": "./images/redbam.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "POW!!!! Sock it to ya!",
+    "image": "./images/redpow.png"
+  },
+  {
+    "id": 9,
+    "name": "Here comes Supergirl!",
+    "image": "./images/supergirl.jpg"
+  },
+  {
+    "id": 10,
+    "name": "You can't stop Wondergirl!",
+    "image": "./images/wondergirl.png"
+  },
+  {
+    "id": 11,
+    "name": "BAM! BAM!",
+    "image": "./images/yellowbam.jpg"
+  },
+  {
+    "id": 12,
+    "name": "POW, ouch!",
+    "image": "./images/yellowpow.jpg"
+  }
+]
