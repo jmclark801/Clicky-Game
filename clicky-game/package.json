@@ -1,8 +1,9 @@
 {
-  "homepage": "https://jmclark801.github.io/Clicky-Game",
+  // "homepage": "https://jmclark801.github.io/Clicky-Game",
+  "homepage": "https://www.jimclark.tech",
   "name": "clicky-game",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@material-ui/core": "^4.3.0",
     "gh-pages": "^2.0.1",
